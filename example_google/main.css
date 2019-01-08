@@ -1,0 +1,11 @@
+#menu {
+    background-color:silver;
+    width:100px;
+    float:left;
+    }
+#contenu {
+    margin-left:110px;
+    }
+#haut {
+    text-align:right;
+    }
